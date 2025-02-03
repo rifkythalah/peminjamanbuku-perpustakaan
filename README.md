@@ -12,3 +12,15 @@ Di sisi admin, terdapat fitur-fitur khusus seperti:
 •	Admin dan petugas dapat memantau jumlah peminjaman yang dilakukan oleh siswa.
 •	Admin dan petugas dapat melakukan menambahkan data peminjaman
 
+Cara Menggunakan
+Pra-syarat:
+
+Pastikan persyaratan sistem terpenuhi.
+Import skema database yang disediakan ke dalam database MySQL.
+Konfigurasi:
+
+Edit file koneksi.php untuk mengonfigurasi koneksi database dan pengaturan lainnya.
+Akses Aplikasi:
+
+Buka aplikasi melalui browser dengan mengakses URL yang sesuai dengan direktori tempat aplikasi disimpan.
+
